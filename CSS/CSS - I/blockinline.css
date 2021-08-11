@@ -1,0 +1,11 @@
+*{
+    background-color: aquamarine;
+}
+div{
+    background-color: blueviolet;
+    display: inline;
+}
+span{
+    background-color: brown;
+    display: block;
+}
