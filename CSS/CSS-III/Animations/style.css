@@ -1,0 +1,14 @@
+.container{
+    margin: 40px;
+    height: 400px;
+    width: 400;
+    background-color: rgb(206, 168, 158);
+}
+.item{
+    height: 50px;
+    width: 60px; 
+    background-color: greenyellow;
+    border: solid black 1px;
+    display: inline-block;
+    
+}
