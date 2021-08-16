@@ -1,0 +1,24 @@
+.container{
+    margin: 2px;
+}
+.item{
+    height: 300px;
+    width: 32%;
+    background-color:burlywood;
+}
+#div1{
+    background-color: #ff8989;
+}
+#div2{
+    background-color: #88f7ce;
+}
+#div3{
+    background-color: #e29df2;
+}
+
+@media only screen and (min-width: 600px) {
+    .item {
+        display: inline-block;
+        margin: 2px;
+    }
+  }

@@ -1,0 +1,15 @@
+.container{
+    margin: 20px;
+    background-color: burlywood;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+    border: black 3px;
+}
+.item{
+    background-color: blue;
+    border: 2px;
+}
